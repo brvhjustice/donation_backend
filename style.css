@@ -6,7 +6,7 @@ body {
 /* Navigation Bar */
 
 .navigation-bar{
-    background-image: url(/public/images/25.jpg);
+    background-image: url(public/images/25.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
